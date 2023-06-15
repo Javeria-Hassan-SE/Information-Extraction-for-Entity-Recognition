@@ -5,6 +5,11 @@
 ## Project Description:
 The NLP Voice Input Processing for Emergency Services project is a Python-based Natural Language Processing (NLP) application that converts voice input into text, recognizes gender through voice analysis, extracts vital information from the input, and generates an automatic voice reply for emergency situations when contacting ambulance, police, or firefighter services. The project leverages NLP techniques to facilitate efficient and accurate processing of voice data for emergency response scenarios.
 
+### Output
+
+<img src="Output.PNG"/><br>
+
+
 ## Key Features:
 
 ## Voice-to-Text Conversion:
